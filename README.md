@@ -12,6 +12,14 @@
 
 - ⚡ Fun fact **What do you call a magic dog? A Labracadabrador.**
 
+
+
+## ⚡ Technologies
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=timsto&show_icons=true" alt="timsto" /> </p>
 
 <p align="center">
