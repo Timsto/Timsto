@@ -2,7 +2,7 @@
 <h3 align="center">Customer Engineer for Microsoft Identity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timsto" alt="timsto" /> </p>
 
-- 🔭 I’m currently working on **Azure B2C**
+- 🔭 I’m currently working on **Azure B2C** and **AzDNS-as-Code**
 
 - 👯 I’m looking to collaborate on [Microsoft 365 DSC](https://github.com/microsoft/Microsoft365DSC)
 
