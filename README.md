@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Customer Engineer for Microsoft Identity</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timsto" alt="timsto" /> </p>
+## Hi 👋, I'm Tim 
 
-- 🔭 I’m currently working on **Azure B2C** and **AzDNS-as-Code**
+[![microsoft-aad](https://img.shields.io/badge/Microsoft-Customer%20Engineer-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][microsoft-aad]
 
-- 👯 I’m looking to collaborate on [Microsoft 365 DSC](https://github.com/microsoft/Microsoft365DSC)
+### I´m a Dog Dad, Architect and Customer Engineer
 
-- 📝 I regulary write articles on [https://www.azurehero.de/](https://www.azurehero.de/)
+- 🔭 I’m currently working on **AzApiCall** and **AzDNS-as-Code**
+
+- 👯 I’m looking to collaborate on [M365DSC](https://github.com/microsoft/Microsoft365DSC)
+
+- 📝 I regulary write articles on [AzureHero](https://www.azurehero.de/)
 
 - 📫 How to reach me **tim.stock@kerncloud.net**
 
 - ⚡ Fun fact **What do you call a magic dog? A Labracadabrador.**
 
-
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f)][twitter] &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## ⚡ Technologies
 
@@ -20,9 +22,10 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=timsto&show_icons=true" alt="timsto" /> </p>
 
-<p align="center">
-<a href="https://twitter.com/ti_stock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ti_stock" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/tim-stock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tim-stock" height="20" width="20" /></a>
-</p>
+
+[website]: https://www.azurehero.de
+[microsoft-aad]: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fti_stock&screen_name=ti_stock
+[linkedin]: https://www.linkedin.com/in/tim-stock/
+[M365DSC]: https://github.com/microsoft/Microsoft365DSC
