@@ -19,8 +19,8 @@
 ## ⚡ Technologies
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoft-azure)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Powershell](https://img.shields.io/badge/-Powershell-181717?style=for-the-badge&logo=Powershell)
+![GitHub](https://img.shields.io/badge/-GitHub-232F7E?style=for-the-badge&logo=github)
+![Powershell](https://img.shields.io/badge/-Powershell-232F7E?style=for-the-badge&logo=Powershell)
 
 
 [website]: https://www.azurehero.de
