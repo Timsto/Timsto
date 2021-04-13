@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [AzApiCall] and [AzDnsAsCode]
 
-- 👯 I’m looking to collaborate on [M365DSC](https://github.com/microsoft/Microsoft365DSC)
+- 👯 I’m looking to collaborate on [M365DSC]
 
-- 📝 I try to regulary write articles on [AzureHero](https://www.azurehero.de/)
+- 📝 I try to regulary write articles on [AzureHero]
 
 - 📫 How to reach me **tim.stock@kerncloud.net**
 
@@ -23,7 +23,7 @@
 ![Powershell](https://img.shields.io/badge/-Powershell-232F7E?style=for-the-badge&logo=Powershell)
 
 
-[website]: https://www.azurehero.de
+[AzureHero]: https://www.azurehero.de
 [microsoft-aad]: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fti_stock&screen_name=ti_stock
 [linkedin]: https://www.linkedin.com/in/tim-stock/
