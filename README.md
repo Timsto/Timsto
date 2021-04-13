@@ -4,11 +4,11 @@
 
 ### I´m a Dog Dad, Architect and Customer Engineer
 
-- 🔭 I’m currently working on **AzApiCall** and **AzDNS-as-Code**
+- 🔭 I’m currently working on [AzApiCall] and [AzDnsAsCode]
 
 - 👯 I’m looking to collaborate on [M365DSC](https://github.com/microsoft/Microsoft365DSC)
 
-- 📝 I regulary write articles on [AzureHero](https://www.azurehero.de/)
+- 📝 I try to regulary write articles on [AzureHero](https://www.azurehero.de/)
 
 - 📫 How to reach me **tim.stock@kerncloud.net**
 
@@ -28,3 +28,5 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fti_stock&screen_name=ti_stock
 [linkedin]: https://www.linkedin.com/in/tim-stock/
 [M365DSC]: https://github.com/microsoft/Microsoft365DSC
+[AzApiCall]: https://github.com/JulianHayward/AzAPICall
+[AzDnsAsCode]: https://github.com/Timsto/AzDnsAsCode
