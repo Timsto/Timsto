@@ -10,6 +10,8 @@
 
 - 📝 I try to regulary write articles on [AzureHero]
 
+- 👯 Searching for Speaking Opportunities at Events/Meetups
+
 - 📫 How to reach me **tim.stock@kerncloud.net**
 
 - ⚡ Fun fact **What do you call a magic dog? A Labracadabrador.**
