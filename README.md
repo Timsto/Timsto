@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Tim 
 
-[![microsoft-aad](https://img.shields.io/badge/Microsoft-Customer%20Engineer-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][microsoft-aad]
+[![microsoft-aad](https://img.shields.io/badge/Microsoft-Cloud%20Solution%20Architect-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][microsoft-aad]
 
-### I´m a Dog Dad, Architect and Customer Engineer
+### I´m a Dog Dad, Architect and Cloud Solution Architect
 
 - 🔭 I’m currently working on [AzApiCall] and [AzDnsAsCode]
 
