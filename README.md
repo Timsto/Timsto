@@ -2,7 +2,7 @@
 
 [![microsoft-aad](https://img.shields.io/badge/Microsoft-Cloud%20Solution%20Architect-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][microsoft-aad]
 
-### I´m a Dog Dad, Architect and Cloud Solution Architect
+### I´m a Dog Dad, Gamer and Cloud Solution Architect
 
 - 🔭 I’m currently working on [AzApiCall] and [AzDnsAsCode]
 
@@ -17,6 +17,7 @@
 - ⚡ Fun fact **What do you call a magic dog? A Labracadabrador.**
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f)][twitter] &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3FVK5X)
 
 ## ⚡ Technologies
 
