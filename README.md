@@ -1,12 +1,10 @@
 ## Hi 👋, I'm Tim 
 
-[![microsoft-aad](https://img.shields.io/badge/Microsoft-Cloud%20Solution%20Architect-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][microsoft-aad]
+[![semperis](https://img.shields.io/badge/Semperis-Senior%20Solution%20Architect-%23F34F1C.svg?&style=for-the-badge&logo=semperis&logoColor=white)][semperis]
 
-### I´m a Dog Dad, Gamer and Cloud Solution Architect
+### I´m a Dog Dad, Gamer and Drohne Pilot
 
-- 🔭 I’m currently working on [AzApiCall] and [AzDnsAsCode]
-
-- 👯 I’m looking to collaborate on [M365DSC]
+- 🔭 I’m currently working on [CAasCode] and [AzDnsAsCode]
 
 - 📝 I try to regulary write articles on [AzureHero]
 
@@ -27,9 +25,9 @@
 
 
 [AzureHero]: https://www.azurehero.de
-[microsoft-aad]: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity
+[semperis]: https://semperis.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fti_stock&screen_name=ti_stock
 [linkedin]: https://www.linkedin.com/in/tim-stock/
 [M365DSC]: https://github.com/microsoft/Microsoft365DSC
-[AzApiCall]: https://github.com/JulianHayward/AzAPICall
+[CaasCode]: [https://github.com/JulianHayward/AzAPICall](https://github.com/AlexFilipin/ConditionalAccess)
 [AzDnsAsCode]: https://github.com/Timsto/AzDnsAsCode
